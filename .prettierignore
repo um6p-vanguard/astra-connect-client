@@ -1,0 +1,15 @@
+.next
+.github
+.agent
+node_modules
+dist
+build
+coverage
+.turbo
+.vercel
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+public/*.png
+public/*.jpg
+public/**/*.svg
